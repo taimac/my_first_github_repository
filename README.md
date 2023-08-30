@@ -6,3 +6,5 @@ This line was modified manually during conflits resolution.
 New line was added locally.
 
 One more change.
+
+Adding a new line with user as taimac.
