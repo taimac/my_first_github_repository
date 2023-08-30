@@ -4,3 +4,5 @@ Here is my first GitHub repository. Let's get started with GitHub by Complete Gi
 This line was modified manually during conflits resolution.
 
 New line was added locally.
+
+One more change.
