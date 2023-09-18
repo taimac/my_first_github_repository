@@ -1,1 +1,3 @@
 Hello GitHub!
+
+Testing git config credential.helper
