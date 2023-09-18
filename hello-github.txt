@@ -1,3 +1,6 @@
 Hello GitHub!
 
-Testing git config credential.helper
+Testing git config credential.helper.
+
+Adding a new line after configuration.
+
